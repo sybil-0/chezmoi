@@ -47,7 +47,7 @@ require("lazy").setup({
 			config = function()
 				vim.o.termguicolors = true
 				vim.o.background = 'dark'
-				vim.cmd.colorscheme 'nightfox'
+				vim.cmd.colorscheme 'carbonfox'
 			end
 		},
 		{

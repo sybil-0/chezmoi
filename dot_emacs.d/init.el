@@ -211,6 +211,8 @@
 (use-package company-quickhelp
   :config (company-quickhelp-mode))
 
+(load-file "~/.emacs.d/elisp/completion-config.el")
+
 
 ;;;;;;;;;;;;;;;;;;;;;;;
 ;; UTILITY FUNCTIONS ;;
