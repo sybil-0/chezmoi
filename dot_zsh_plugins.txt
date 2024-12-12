@@ -1,0 +1,14 @@
+# fuzzy path jumping
+rupa/z
+
+# oh my zsh  plugins
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:lib
+ohmyzsh/ohmyzsh path:plugins/extract
+
+# add fish-like features
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
+# fish style abbreviations
+olets/zsh-abbr
